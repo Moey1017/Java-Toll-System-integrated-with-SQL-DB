@@ -16,7 +16,8 @@ import Exceptions.DaoException;
 
 /**
  *
- * @author HP
+ * D00217017 Jing Sheng Moey 
+ * SD2A
  */
 public class MySqlDao 
 {

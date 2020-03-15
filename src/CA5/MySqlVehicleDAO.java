@@ -15,7 +15,8 @@ import java.util.Set;
 
 /**
  *
- * @author HP
+ * D00217017 Jing Sheng Moey 
+ * SD2A
  */
 public class MySqlVehicleDAO extends MySqlDao implements VehicleDAOInterface
 {

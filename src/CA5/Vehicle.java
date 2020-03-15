@@ -9,7 +9,8 @@ import java.util.Objects;
 
 /**
  *
- * @author HP
+ * D00217017 Jing Sheng Moey 
+ * SD2A
  */
 public class Vehicle
 {

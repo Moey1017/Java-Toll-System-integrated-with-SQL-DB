@@ -7,7 +7,8 @@ package CA5;
 
 /**
  *
- * @author HP
+ * D00217017 Jing Sheng Moey 
+ * SD2A
  */
 public class MainApp
 {
